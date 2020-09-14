@@ -1,0 +1,3 @@
+tfadmin-service-key.json
+.terraform/
+*.tfvars
